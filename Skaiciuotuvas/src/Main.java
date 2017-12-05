@@ -16,4 +16,7 @@ public class Main {
 	public double divide(int a, int b){
 	retun a/b;
 }
+	public multiply(int a, int b)
+	return a*b;
+}
 }
