@@ -16,10 +16,13 @@ public class Main {
 	public double divide(int a, int b){
 	retun a/b;
 }
-	public multiply(int a, int b)
+	public int multiply(int a, int b)
 	return a*b;
 }
-	public sqRoot(int a)
+	public double sqRoot(int a)
 	return Math.sqrt(a);
+}
+	public int power(int a, int b){
+	return Math.pow(a,b);
 }
 }
