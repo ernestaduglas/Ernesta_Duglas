@@ -10,19 +10,19 @@ public class Main {
 		return a+b+c;
 	}
 	
-	pubic int substract(int a, int b){
+	public int substract(int a, int b){
 	return a-b;
 }
 	public double divide(int a, int b){
-	retun a/b;
+	return a/b;
 }
-	public int multiply(int a, int b, int c)
+	public int multiply(int a, int b, int c) {
 	return a*b*c;
 }
-	public double sqRoot(int a)
+	public double sqRoot(int a) {
 	return Math.sqrt(a);
 }
-	public int power(int a, int b){
+	public double power(int a, int b){
 	return Math.pow(a,b);
 }
 }
