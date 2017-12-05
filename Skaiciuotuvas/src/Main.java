@@ -6,8 +6,8 @@ public class Main {
 
 	}
 	
-	public int sum(int a, int b) {
-		return a+b;
+	public int sum(int a, int b, int c) {
+		return a+b+c;
 	}
 	
 	pubic int substract(int a, int b){
@@ -16,8 +16,8 @@ public class Main {
 	public double divide(int a, int b){
 	retun a/b;
 }
-	public int multiply(int a, int b)
-	return a*b;
+	public int multiply(int a, int b, int c)
+	return a*b*c;
 }
 	public double sqRoot(int a)
 	return Math.sqrt(a);
