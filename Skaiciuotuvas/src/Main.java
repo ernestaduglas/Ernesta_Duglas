@@ -13,4 +13,7 @@ public class Main {
 	pubic int substract(int a, int b){
 	return a-b;
 }
+	public double divide(int a, int b){
+	retun a/b;
+}
 }
