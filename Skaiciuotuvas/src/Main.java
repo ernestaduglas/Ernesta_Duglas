@@ -6,8 +6,8 @@ public class Main {
 
 	}
 	
-	public int sum(int a, int b) {
-		return a+b;
+	public int sum(int a, int b, int c) {
+		return a+b+c;
 	}
 	
 	pubic int substract(int a, int b){
