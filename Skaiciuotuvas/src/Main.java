@@ -19,4 +19,7 @@ public class Main {
 	public multiply(int a, int b)
 	return a*b;
 }
+	public sqRoot(int a)
+	return Math.sqrt(a);
+}
 }
