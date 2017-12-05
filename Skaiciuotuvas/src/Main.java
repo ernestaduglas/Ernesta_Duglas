@@ -9,5 +9,8 @@ public class Main {
 	public int sum(int a, int b) {
 		return a+b;
 	}
-
+	
+	pubic int substract(int a, int b){
+	return a-b;
+}
 }
